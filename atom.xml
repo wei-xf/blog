@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://wei-xf.github.io/"/>
+  <link href="https://wei-xf.github.io/blog/"/>
   <updated>2020-01-09T14:44:18.000Z</updated>
-  <id>https://wei-xf.github.io/</id>
+  <id>https://wei-xf.github.io/blog/</id>
   
   <author>
     <name>Wei xianfeng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Nginx配置</title>
-    <link href="https://wei-xf.github.io/2020/01/09/Nginx%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%80%9A%E7%94%A8%E8%AF%AD%E6%B3%95/"/>
-    <id>https://wei-xf.github.io/2020/01/09/Nginx%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%80%9A%E7%94%A8%E8%AF%AD%E6%B3%95/</id>
+    <link href="https://wei-xf.github.io/blog/2020/01/09/Nginx%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%80%9A%E7%94%A8%E8%AF%AD%E6%B3%95/"/>
+    <id>https://wei-xf.github.io/blog/2020/01/09/Nginx%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%80%9A%E7%94%A8%E8%AF%AD%E6%B3%95/</id>
     <published>2020-01-09T13:53:07.000Z</published>
     <updated>2020-01-09T14:44:18.000Z</updated>
     
@@ -37,14 +37,14 @@
     
     
     
-      <category term="Nginx" scheme="https://wei-xf.github.io/tags/Nginx/"/>
+      <category term="Nginx" scheme="https://wei-xf.github.io/blog/tags/Nginx/"/>
     
   </entry>
   
   <entry>
     <title>编译安装Nginx</title>
-    <link href="https://wei-xf.github.io/2020/01/08/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/"/>
-    <id>https://wei-xf.github.io/2020/01/08/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/</id>
+    <link href="https://wei-xf.github.io/blog/2020/01/08/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/"/>
+    <id>https://wei-xf.github.io/blog/2020/01/08/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/</id>
     <published>2020-01-08T14:32:49.000Z</published>
     <updated>2020-01-09T13:52:00.000Z</updated>
     
@@ -62,14 +62,14 @@
     
     
     
-      <category term="Nginx" scheme="https://wei-xf.github.io/tags/Nginx/"/>
+      <category term="Nginx" scheme="https://wei-xf.github.io/blog/tags/Nginx/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 博客搭建</title>
-    <link href="https://wei-xf.github.io/2019/12/25/Hexo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    <id>https://wei-xf.github.io/2019/12/25/Hexo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <link href="https://wei-xf.github.io/blog/2019/12/25/Hexo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>https://wei-xf.github.io/blog/2019/12/25/Hexo-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
     <published>2019-12-25T13:14:58.000Z</published>
     <updated>2020-01-09T13:20:15.000Z</updated>
     
@@ -88,9 +88,9 @@
     
     
     
-      <category term="随笔" scheme="https://wei-xf.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://wei-xf.github.io/blog/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="PHP" scheme="https://wei-xf.github.io/tags/PHP/"/>
+      <category term="PHP" scheme="https://wei-xf.github.io/blog/tags/PHP/"/>
     
   </entry>
   
